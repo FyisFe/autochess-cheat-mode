@@ -8,10 +8,6 @@ English Version: [Dota2 Autochess with Cheat Commands](README_ENG.md)
 
 https://www.bilibili.com/video/BV1es4y157zM/
 
-## 下载地址
-
-Google Drive: https://drive.google.com/file/d/1kjjf4yhW2GQ76ujo4EtmrF7556l1Fiwd/view?usp=sharing
-
 ## 环境
 
 - Windows 10
