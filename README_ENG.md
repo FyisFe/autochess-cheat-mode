@@ -8,10 +8,6 @@ You will have some cheats while playing in local host mode against cloud players
 
 https://www.bilibili.com/video/BV1es4y157zM/
 
-## How to Download
-
-Google Drive: https://drive.google.com/file/d/1kjjf4yhW2GQ76ujo4EtmrF7556l1Fiwd/view?usp=sharing
-
 ## Environment
 
 - Windows 10
